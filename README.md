@@ -34,7 +34,7 @@ En las cueles se encuentra distribuida la informacion de los clientes, contiene 
 -numpy
 
 **Cómo ejecutar el proyecto**
-1. Abre `notebooks/telecom-analysis.ipynb`
+1. Abre `telecom-analysis.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 

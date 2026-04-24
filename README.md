@@ -53,6 +53,5 @@ Segmentos por Nivel de Uso
 
 -Diseñar un plan exclusivo para minutos de llamdas muy prolongados, para algun segmento especial en un plan adecuado.
 
--Insentivar a los jovenes menores de 30 años al uso de llamdas y mensajes, ya que seguramente su principal medio de comunicacion son las redes sociales
-s, distribuciones y outliers
+-Insentivar a los jovenes menores de 30 años al uso de llamdas y mensajes, ya que seguramente su principal medio de comunicacion son las redes socialesciones y outliers
 - Generar insights para el equipo de Estrategia e Integración de EverPeak
